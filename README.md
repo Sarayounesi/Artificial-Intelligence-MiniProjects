@@ -139,7 +139,7 @@ This repository contains solutions to a variety of logical and mathematical prob
 
 •  Solution: Use the given probabilities and the independence assumption to fill in the missing values.
 
-- Answers: [Link to DL7]((https://github.com/Sarayounesi/Artificial-Intelligence-Projects/tree/main/HW7))
+- Answers: [Link to DL7](https://github.com/Sarayounesi/Artificial-Intelligence-Projects/tree/main/HW7)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" />  P8
 - 
